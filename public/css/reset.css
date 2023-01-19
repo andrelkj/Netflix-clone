@@ -1,0 +1,9 @@
+/* here we're going to reset css to stantard for all navigators */
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
